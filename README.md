@@ -189,7 +189,7 @@ Apenas usuários autenticados podem:
 
 * POST /api/reservations
 * GET /api/reservations (apenas reservas do usuário autenticado)
-* PATCH /api/reservations/{id}/cancel
+* PATCH /api/reservations/{id}
 
 ---
 
